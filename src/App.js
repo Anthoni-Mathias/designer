@@ -8,23 +8,23 @@ function App() {
   const times = [
     {
       nome: 'Programacao',
-      corPrimaria: '',
-      corSegundaria: ''
+      corPrimaria: '#57C278',
+      corSegundaria: '#D9F7E9'
     },
     {
       nome: 'Front-End',
-      corPrimaria: '',
-      corSegundaria: ''
+      corPrimaria: '#82CFFA',
+      corSegundaria: '#E8F8FF'
     },
     {
       nome: 'Data Science',
-      corPrimaria: '',
-      corSegundaria: ''
+      corPrimaria: '#A6D157',
+      corSegundaria: '#F0F8E2'
     },
     {
       nome: 'Inovacao',
-      corPrimaria: '',
-      corSegundaria: ''
+      corPrimaria: '#E06B69',
+      corSegundaria: '#FDE7E8'
     }
   ]
 
