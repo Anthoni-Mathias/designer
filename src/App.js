@@ -7,7 +7,7 @@ function App() {
 
   const times = [
     {
-      nome: 'Programacao',
+      nome: 'Programação',
       corPrimaria: '#57C278',
       corSegundaria: '#D9F7E9'
     },
@@ -22,7 +22,7 @@ function App() {
       corSegundaria: '#F0F8E2'
     },
     {
-      nome: 'Inovacao',
+      nome: 'Inovação',
       corPrimaria: '#E06B69',
       corSegundaria: '#FDE7E8'
     }
@@ -38,8 +38,16 @@ function App() {
   return (
     <div className="App">
       <Banner />
-      <Formulario aoColaboradorCadastrado={colaborador => aoNovoColaboradorAdicionado(colaborador)}/>
-      {times.map(time => <Time key={time.nome} nome={time.nome} corPrimaria={time.corPrimaria} corSegundaria={time.corSegundaria}/>)}
+      <Formulario times={times.map(time => time.nome)} aoColaboradorCadastrado={colaborador => aoNovoColaboradorAdicionado(colaborador)}/>
+      
+      {times.map(time => <Time 
+        key={time.nome} 
+        nome={time.nome} 
+        corPrimaria={time.corPrimaria} 
+        corSegundaria={time.corSegundaria}
+        colaboradores={colaboradores}
+      />)}
+    
     </div>
   );
 }
