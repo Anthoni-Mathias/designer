@@ -14,10 +14,10 @@ live [link](https://anthoni-mathias.github.io/designer/) to view it in your brow
 The page will reload when you make changes.\
 You may also see any lint errors in the console.git
 
-### `npm test`
+### `Home Page`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+This a Home page for this aplication
+See the section home [./src/gitreadme/homepage.png]
 
 ### `npm run build`
 
