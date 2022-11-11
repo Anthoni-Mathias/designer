@@ -1,11 +1,17 @@
-# [All About Game](https://anthoni-mathias.github.io/designer/)
+# [All this project](https://anthoni-mathias.github.io/designer/)
 
 ![Web Demo](/src/gitreadme/responsive.png)
 
-## Available Scripts
+## About
+This project was made to make teams of teachers or students, here you choose if you are registering a collaborator or a student.
 
-In the project directory, you can run:
+### User Stories
+* You can add a teacher along with the area he works
+* You can place a student next to the Subject of a certain teacher
+![Demo](/src/gitreadme/userdemo.png)
 
+### Design
+I wanted a white color scheme for this project to give a clean look. For the background I used a white and I kept the color of the navbar, footer and buttons the same white color scheme. All forms have a white background with black text and icons.
 ### `npm run build`
 
 Builds the app for production to the `build` folder.\
