@@ -9,10 +9,10 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Web [https://anthoni-mathias.github.io/designer/] to view it in your browser.
+Web [link] (https://anthoni-mathias.github.io/designer/) to view it in your browser.
 
 The page will reload when you make changes.\
-You may also see any lint errors in the console.
+You may also see any lint errors in the console.git
 
 ### `npm test`
 
