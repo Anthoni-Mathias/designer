@@ -1,23 +1,10 @@
-# Getting Started with Create React App
+# [All About Game](https://anthoni-mathias.github.io/designer/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Web Demo](/src/gitreadme/responsive.png)
 
 ## Available Scripts
 
 In the project directory, you can run:
-
-### `live project`
-
-Runs the app in the development mode.\
-live [link](https://anthoni-mathias.github.io/designer/) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.git
-
-### `Home Page`
-
-This a Home page for this aplication
-See the section home [./src/gitreadme/homepage.png]
 
 ### `npm run build`
 
